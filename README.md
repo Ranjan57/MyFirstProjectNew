@@ -1,2 +1,4 @@
 # MyFirstProjectNew
-This project is created for personal training 
+This project is created for personal training.
+
+New to GitHub.
